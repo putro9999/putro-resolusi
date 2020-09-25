@@ -1,6 +1,7 @@
 Putro Resolusi
 - Belajar React.js
 - Belajar RESTfull API
-- Belajar Laravel
+- Belajar Node js
 - Belajar React Native
 - Membuat Aplikasi menggunakan React Native
+- Membuat Web dengan Node js
