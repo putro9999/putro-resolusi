@@ -5,3 +5,4 @@ Putro Resolusi
 - Belajar React Native
 - Membuat Aplikasi menggunakan React Native
 - Membuat Web dengan Node js
+- Membuat Aplikasi yang bisa dijual
