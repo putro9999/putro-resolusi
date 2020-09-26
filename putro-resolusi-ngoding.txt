@@ -1,4 +1,6 @@
 PUTRO NGODING
 
 - Ngoding React.js
+  - belajar fundamental
 - Ngoding React native
+  - belajar fundamental
