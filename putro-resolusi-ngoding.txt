@@ -1,4 +1,6 @@
 PUTRO NGODING
 
 - Ngoding React.js
+  - belajar form
 - Ngoding React native
+  -belajar upload gambar
